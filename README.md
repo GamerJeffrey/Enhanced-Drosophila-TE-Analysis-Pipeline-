@@ -1,4 +1,3 @@
-# Enhanced-Drosophila-TE-Analysis-Pipeline-
 # Enhanced Drosophila TE Analysis Pipeline
 
 ## Overview
